@@ -1,0 +1,53 @@
+  .heading
+  {
+    font-size: 27px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: lightcoral;
+    width: 100%;
+    margin: 0px;
+    box-shadow:5px 5px 5px grey;
+  }
+  .heading_div
+  {
+    float: none;
+    background: white ; 
+    border-radius: 20px; 
+    color: black;
+    box-shadow:5px 5px 5px grey;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  }
+  .heading_div2
+  {
+    font-size: 18px ;
+    color: olive;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  }
+  .result_para_tag
+  {
+    box-shadow:5px 5px 5px grey;
+    font-size: 20px;
+    font-family: fantasy;
+  }
+
+  .result_para_tag span{
+    white-space: pre-line;
+  }
+
+  .copy_right_footer{
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+    line-height: 3;
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    box-shadow: -10px -10px 15px deepskyblue;
+    background-color: firebrick;
+  }
+
+  canvas{
+    border: 5px ridge goldenrod;
+    border-radius: 20px;
+    margin-top: 125px;
+    box-shadow: 10px -10px 13px gray;
+  }
+ 
